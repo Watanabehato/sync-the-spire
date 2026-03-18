@@ -1,0 +1,8 @@
+{
+  "latest_version": "v1.0.1",
+  "published_at": "2026-03-18T07:16:44Z",
+  "release_url": "https://github.com/Ruikoto/sync-the-spire/releases/tag/v1.0.1",
+  "download_url_x64": "https://sts-dl.rkto.cc/Ruikoto/sync-the-spire/releases/download/v1.0.1/SyncTheSpire-v1.0.1-win-x64.zip",
+  "download_url_arm": "https://sts-dl.rkto.cc/Ruikoto/sync-the-spire/releases/download/v1.0.1/SyncTheSpire-v1.0.1-win-arm64.zip",
+  "force_update": false
+}
